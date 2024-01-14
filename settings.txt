@@ -1,4 +1,0 @@
-24
-cards/theme2
-gorizontal_shirt2.png
-vertical_shirt2.png
